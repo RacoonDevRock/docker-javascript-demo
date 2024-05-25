@@ -12,4 +12,7 @@ console.log(`z: ${z}`);
 let multi = z * pi;
 console.log(`multi: ${multi}`);
 
-console.log("Estas descargando docker-javascript-demo v3");
+let resultado = (a + b + z) * pi;
+console.log("resultado", resultado);
+
+console.log("Estas descargando docker-javascript-demo v4");
